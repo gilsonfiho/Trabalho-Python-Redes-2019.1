@@ -1,0 +1,3 @@
+Para inciar os códigos basta ter uma ide do python3 ou o proprio interpretador do python3 no computador. 
+Para facilitar você pode renomear os arquvos para o tipo .pyw onde ele vai abrir direto com o interpretador
+do python.
